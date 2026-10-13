@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
+<style>.sea{animation:drift 7s ease-in-out infinite alternate}.r{animation-direction:alternate-reverse}@keyframes drift{from{transform:translateX(-6px)}to{transform:translateX(6px)}}@media (prefers-reduced-motion:reduce){.sea{animation:none}}</style>
+<rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text x="25" y="40" fill="#57606a" xml:space="preserve">                              v</text>
+<text x="25" y="55" fill="#57606a" xml:space="preserve">                                   v</text>
+<text x="25" y="70" fill="#57606b" xml:space="preserve">               :-===++=.</text>
+<text x="25" y="85" fill="#56606b" xml:space="preserve">            :+*#########*-</text>
+<text x="25" y="100" fill="#55606c" xml:space="preserve">          -*#############*-.</text>
+<text x="25" y="115" fill="#54606e" xml:space="preserve">         =###*=-:.. .-=+==++-</text>
+<text x="25" y="130" fill="#536070" xml:space="preserve">       .*###=            =+++-</text>
+<text x="25" y="145" fill="#526172" xml:space="preserve">      .*##+.             =++++=.</text>
+<text x="25" y="160" fill="#506174" xml:space="preserve">      -##*.              =+++++=.</text>
+<text x="25" y="175" fill="#4e6176" xml:space="preserve">      *##:              .++++=+++.</text>
+<text x="25" y="190" fill="#4c6179" xml:space="preserve">     :##=     o~~       :+++=+++++:</text>
+<text x="25" y="205" fill="#4a617d" xml:space="preserve">     =%#:   _/|\_       =++=++=++++:</text>
+<text x="25" y="220" fill="#486280" xml:space="preserve">     -%#.    /_\       .+++=+=+++=++-</text>
+<text x="25" y="235" fill="#456284" xml:space="preserve">     :#+     / \       -++=++++++++++=</text>
+<text x="25" y="250" fill="#426288" xml:space="preserve">     .:.  &lt;=========) :++++++++++++++++.</text>
+<text x="25" y="265" fill="#3f638d" xml:space="preserve">    .:               :+++++++++********+:</text>
+<text x="25" y="280" fill="#3c6391" xml:space="preserve">    ..              .+++++++++**********+=</text>
+<text x="25" y="295" fill="#386496" xml:space="preserve">        .          .+++++++++*************</text>
+<text x="25" y="310" fill="#34649c" xml:space="preserve">  .  .           .=++++++++***************</text>
+<text x="25" y="325" fill="#3064a1" xml:space="preserve"> .              -++++++++*****************</text>
+<text x="25" y="340" fill="#2c65a7" xml:space="preserve">        :    :-=++++++++******************</text>
+<text x="25" y="355" fill="#2865ae" xml:space="preserve">     .   .:-===+++++**********************</text>
+<text x="25" y="370" fill="#2366b4" xml:space="preserve">  .::--=++=+=+**+*=+*+********************</text>
+<text x="25" y="385" fill="#1e67bb" class="sea r" xml:space="preserve">***-++***++++++=+=+++==*************+++++*</text>
+<text x="25" y="400" fill="#1967c2" class="sea" xml:space="preserve">+++++++++++=++++*+**++++++++++++++++++****</text>
+<text x="25" y="415" fill="#1468ca" class="sea r" xml:space="preserve">++++++++*********++++++++++++**********+++</text>
+<text x="25" y="430" fill="#0f68d2" class="sea" xml:space="preserve">*************+++++*****************++++***</text>
+<text x="25" y="445" fill="#0969da" class="sea r" xml:space="preserve">******************************************</text>
+<text x="390" y="90" xml:space="preserve"><tspan fill="#0969da">laulauraluo@github </tspan><tspan fill="#afb8c1">─────────────────────────────────────</tspan></text>
+<text x="390" y="132" xml:space="preserve"><tspan fill="#953800">OS: </tspan><tspan fill="#afb8c1">.............................................. </tspan><tspan fill="#24292f">macOS</tspan></text>
+<text x="390" y="153" xml:space="preserve"><tspan fill="#953800">Kernel: </tspan><tspan fill="#afb8c1">...................... </tspan><tspan fill="#24292f">ML Research + Engineering</tspan></text>
+<text x="390" y="174" xml:space="preserve"><tspan fill="#953800">Focus: </tspan><tspan fill="#afb8c1">.... </tspan><tspan fill="#24292f">Dialogue agents, tables &amp; DBs, memory, evals</tspan></text>
+<text x="390" y="195" xml:space="preserve"><tspan fill="#953800">Interests: </tspan><tspan fill="#afb8c1">............. </tspan><tspan fill="#24292f">LLM + Embodied AI, World Models</tspan></text>
+<text x="390" y="216" xml:space="preserve"><tspan fill="#953800">IDE: </tspan><tspan fill="#afb8c1">........................ </tspan><tspan fill="#24292f">Claude Code, Codex, Cursor</tspan></text>
+<text x="390" y="258" xml:space="preserve"><tspan fill="#953800">Languages.Programming: </tspan><tspan fill="#afb8c1">... </tspan><tspan fill="#24292f">Python, JavaScript (three.js)</tspan></text>
+<text x="390" y="279" xml:space="preserve"><tspan fill="#953800">Languages.Real: </tspan><tspan fill="#afb8c1">........... </tspan><tspan fill="#24292f">Cantonese, Mandarin, English</tspan></text>
+<text x="390" y="300" xml:space="preserve"><tspan fill="#953800">Hobbies: </tspan><tspan fill="#afb8c1">................... </tspan><tspan fill="#24292f">Surfing, Climbing, Werewolf</tspan></text>
+<text x="390" y="342" xml:space="preserve"><tspan fill="#0969da">─ Research Ops · 2026-10 </tspan><tspan fill="#afb8c1">───────────────────────────────</tspan></text>
+<text x="390" y="363" xml:space="preserve"><tspan fill="#953800">API calls: </tspan><tspan fill="#afb8c1">............... </tspan><tspan fill="#24292f">59,152 across 5 coding agents</tspan></text>
+<text x="390" y="384" xml:space="preserve"><tspan fill="#953800">Workflows: </tspan><tspan fill="#afb8c1">............ </tspan><tspan fill="#24292f">85 in one session → 6,027 agents</tspan></text>
+<text x="390" y="405" xml:space="preserve"><tspan fill="#953800">Pattern: </tspan><tspan fill="#afb8c1">....... </tspan><tspan fill="#24292f">fan-out runs · blind judges · re-checks</tspan></text>
+</svg>
