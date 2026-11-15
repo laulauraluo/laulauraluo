@@ -31,15 +31,16 @@
 <text x="25" y="445" fill="#58a6ff" class="sea r" xml:space="preserve">******************************************</text>
 <text x="390" y="90" xml:space="preserve"><tspan fill="#58a6ff">laulauraluo@github </tspan><tspan fill="#484f58">─────────────────────────────────────</tspan></text>
 <text x="390" y="132" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">.............................................. </tspan><tspan fill="#c9d1d9">macOS</tspan></text>
-<text x="390" y="153" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#c9d1d9">ML Research + Engineering</tspan></text>
-<text x="390" y="174" xml:space="preserve"><tspan fill="#ffa657">Focus: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">Dialogue agents, tables &amp; DBs, memory, evals</tspan></text>
-<text x="390" y="195" xml:space="preserve"><tspan fill="#ffa657">Interests: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">LLM + Embodied AI, World Models</tspan></text>
-<text x="390" y="216" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">Claude Code, Codex, Cursor</tspan></text>
-<text x="390" y="258" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">Python, JavaScript (three.js)</tspan></text>
-<text x="390" y="279" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Cantonese, Mandarin, English</tspan></text>
-<text x="390" y="300" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Surfing, Climbing, Werewolf</tspan></text>
-<text x="390" y="342" xml:space="preserve"><tspan fill="#58a6ff">─ Research Ops · 2026-10 </tspan><tspan fill="#484f58">───────────────────────────────</tspan></text>
-<text x="390" y="363" xml:space="preserve"><tspan fill="#ffa657">API calls: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">59,152 across 5 coding agents</tspan></text>
-<text x="390" y="384" xml:space="preserve"><tspan fill="#ffa657">Workflows: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">85 in one session → 6,027 agents</tspan></text>
-<text x="390" y="405" xml:space="preserve"><tspan fill="#ffa657">Pattern: </tspan><tspan fill="#484f58">....... </tspan><tspan fill="#c9d1d9">fan-out runs · blind judges · re-checks</tspan></text>
+<text x="390" y="153" xml:space="preserve"><tspan fill="#ffa657">Orgs (past, current, future): </tspan><tspan fill="#484f58">.. </tspan><tspan fill="#c9d1d9">X · Amazon · Salesforce</tspan></text>
+<text x="390" y="174" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">...................... </tspan><tspan fill="#c9d1d9">ML Research + Engineering</tspan></text>
+<text x="390" y="195" xml:space="preserve"><tspan fill="#ffa657">Focus: </tspan><tspan fill="#484f58">.... </tspan><tspan fill="#c9d1d9">Dialogue agents, tables &amp; DBs, memory, evals</tspan></text>
+<text x="390" y="216" xml:space="preserve"><tspan fill="#ffa657">Interests: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">LLM + Embodied AI, World Models</tspan></text>
+<text x="390" y="237" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">........................ </tspan><tspan fill="#c9d1d9">Claude Code, Codex, Cursor</tspan></text>
+<text x="390" y="279" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">Python, JavaScript (three.js)</tspan></text>
+<text x="390" y="300" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Cantonese, Mandarin, English</tspan></text>
+<text x="390" y="321" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Surfing, Climbing, Werewolf</tspan></text>
+<text x="390" y="363" xml:space="preserve"><tspan fill="#58a6ff">─ Research Ops · 2026-10 </tspan><tspan fill="#484f58">───────────────────────────────</tspan></text>
+<text x="390" y="384" xml:space="preserve"><tspan fill="#ffa657">API calls: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">59,152 across 5 coding agents</tspan></text>
+<text x="390" y="405" xml:space="preserve"><tspan fill="#ffa657">Workflows: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">85 in one session → 6,027 agents</tspan></text>
+<text x="390" y="426" xml:space="preserve"><tspan fill="#ffa657">Pattern: </tspan><tspan fill="#484f58">....... </tspan><tspan fill="#c9d1d9">fan-out runs · blind judges · re-checks</tspan></text>
 </svg>
