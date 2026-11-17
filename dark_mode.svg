@@ -39,8 +39,8 @@
 <text x="390" y="279" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">... </tspan><tspan fill="#c9d1d9">Python, JavaScript (three.js)</tspan></text>
 <text x="390" y="300" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">........... </tspan><tspan fill="#c9d1d9">Cantonese, Mandarin, English</tspan></text>
 <text x="390" y="321" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Surfing, Climbing, Werewolf</tspan></text>
-<text x="390" y="363" xml:space="preserve"><tspan fill="#58a6ff">─ Research Ops · 2026-10 </tspan><tspan fill="#484f58">───────────────────────────────</tspan></text>
-<text x="390" y="384" xml:space="preserve"><tspan fill="#ffa657">API calls: </tspan><tspan fill="#484f58">............... </tspan><tspan fill="#c9d1d9">59,152 across 5 coding agents</tspan></text>
+<text x="390" y="363" xml:space="preserve"><tspan fill="#58a6ff">─ Research Ops · 2026-11 </tspan><tspan fill="#484f58">───────────────────────────────</tspan></text>
+<text x="390" y="384" xml:space="preserve"><tspan fill="#ffa657">API calls: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">175,184 across 6 coding agents</tspan></text>
 <text x="390" y="405" xml:space="preserve"><tspan fill="#ffa657">Workflows: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">85 in one session → 6,027 agents</tspan></text>
 <text x="390" y="426" xml:space="preserve"><tspan fill="#ffa657">Pattern: </tspan><tspan fill="#484f58">....... </tspan><tspan fill="#c9d1d9">fan-out runs · blind judges · re-checks</tspan></text>
 </svg>
